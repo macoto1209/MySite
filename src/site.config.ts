@@ -134,7 +134,7 @@ const siteConfig: SiteConfig = {
         title: 'Marco Yang ',
         text: "Video editor, film enthusiast and builder of small digital projects.",
         image: {
-            src: '/assets/images/pixeltrue-space-discovery.svg',
+            src: '/assets/images/hero-image',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
