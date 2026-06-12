@@ -7,7 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "http://localhost:4321", //"https://djsiddz.github.io",
+  site: "https://macoto1209.github.io",
   base: "/MySite",
   integrations: [
     swup({
@@ -29,6 +29,9 @@ export default defineConfig({
 
   experimental: {
     svgOptimizer: svgoOptimizer(),
+  },
+  devToolbar: {
+    enabled: false,
   },
 });
 
