@@ -29,10 +29,7 @@ const {
     <link rel="sitemap" href={withBase(`/sitemap-index.xml`)} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Sigmar&family=Kanit:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
-      rel="stylesheet"
-    />
+
     <link
       rel="alternate"
       type="application/rss+xml"
@@ -45,7 +42,6 @@ const {
     <main class="max-w-3xl mx-auto min-h-screen">
       <Nav activePage={activePage} />
       <slot />
-      {showSubscribeForm && <Subscribe class="my-12 w-full" />}
       <Footer />
     </main>
   </body>
