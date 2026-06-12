@@ -11,3 +11,6 @@ tags:
 ---
 這是第一次自己架在Github上的個人網站
 
+問了ChatGPT，它推薦了用Astro跟GitHub免費且自主管理
+
+先用Typora編輯md檔
