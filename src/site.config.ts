@@ -68,9 +68,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
-    title: 'Space Ahead',
-    description: 'A minimal space-inspired personal blog template built with Astro.js and Tailwind CSS, by Siddhesh Thadeshwar',
+    website: 'https://macoto1209.github.io/MySite/',
+    title: 'Marco Yang',
+    description: 'Personal thoughts, film observations and AI experiments.',
     image: {
         src: '/space-ahead-preview.jpeg',
         alt: 'Space Ahead ✨ - A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.'
@@ -117,22 +117,22 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: "Facebook",
+            href: "https://www.facebook.com/macoto.yang"
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/marcoyang1209/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Threads',
+            href: 'https://www.threads.com/@marcoyang1209'
         }
     ],
     hero: {
-        eyebrowText: 'Galaxy of Adventures',
-        title: 'Space Ahead ✨',
-        text: "Written by Astro-naut Sid, a space explorer at Beyond Earth.",
+        eyebrowText: 'Film • AI • Technology',
+        title: 'Marco Yang ',
+        text: "Video editor, film enthusiast and builder of small digital projects.",
         image: {
             src: '/assets/images/pixeltrue-space-discovery.svg',
             alt: 'A person sitting at a desk in front of a computer'
@@ -150,38 +150,38 @@ const siteConfig: SiteConfig = {
     },
     about: {
         title: 'About',
-        text: 'Space Ahead is a blog about space exploration and travel. It is written by Astro-naut Sid, a space explorer at Beyond Earth. Sid is known for his love of adventure and his insatiable curiosity about the universe. He has explored countless planets, discovered new life forms, and made friends with aliens along the way. 🚀',
+        text: 'My Personal Thoughts And AI generations',
     },
     contactInfo: {
         title: 'Contact',
         text: "Hi! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:",
         email: {
             text: "Drop me an email and I’ll do my best to respond as soon as possible.",
-            href: "mailto:example@example.com",
-            email: "example@example.com"
+            href: "mailto:macoto1209@gmail.com",
+            email: "macoto1209@gmail.com"
         },
         socialProfiles: [
             {
-                text: "LinkedIn",
-                href: "https://www.linkedin.com/"
+                text: "Facebook",
+                href: "https://www.facebook.com/macoto.yang"
             },
             {
-                text: "Peerlist",
-                href: "https://www.peerlist.io/"
+                text: "Instagram",
+                href: "https://www.instagram.com/marcoyang1209/"
             },
             {
-                text: "GitHub",
-                href: "https://github.com/"
+                text: "Threads",
+                href: "https://www.threads.com/@marcoyang1209"
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Space Ahead',
+        title: 'Subscribe',
         text: 'One update per week. All the latest stories in your inbox.',
         formUrl: '#'
     },
     blog: {
-        description: "Read about my space adventures, explorations and the aliens I've met on my journeys."
+        description: "Read about my journeys."
     },
     postsPerPage: 2,
     recentPostLimit: 3
