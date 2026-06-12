@@ -73,7 +73,7 @@ const siteConfig: SiteConfig = {
     description: 'Personal thoughts, film observations and AI experiments.',
     image: {
         src: '/space-ahead-preview.jpeg',
-        alt: 'Space Ahead ✨ - A minimal space-inspired personal blog template, created by Siddhesh Thadeshwar.'
+        alt: 'Marco Yang'
     },
     headerNavLinks: [
         {
@@ -134,7 +134,7 @@ const siteConfig: SiteConfig = {
         title: 'Marco Yang ',
         text: "Video editor, film enthusiast and builder of small digital projects.",
         image: {
-            src: '/assets/images/hero-image',
+            src: '/assets/images/hero-image.png',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
