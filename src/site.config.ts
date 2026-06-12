@@ -106,14 +106,7 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: withBase('/contact')
         },
-        {
-            text: 'RSS Feed',
-            href: withBase('/rss.xml')
-        },
-                {
-            text: 'Sitemap',
-            href: withBase('/sitemap-index.xml')
-        }
+
     ],
     socialLinks: [
         {
@@ -142,10 +135,6 @@ const siteConfig: SiteConfig = {
                 text: 'Read Now',
                 href: withBase('/blog')
             },
-            {
-                text: 'Subscribe',
-                href: '#subscribe'
-            }
         ]
     },
     about: {
