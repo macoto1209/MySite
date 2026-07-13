@@ -1,6 +1,6 @@
 ---
 title: "簡直就像個迷你商場"
-description: "蒙哥馬利跳"
+description: "蒙哥馬利跳蚤市場 - 完整版"
 author: "Marco"
 image:
   url: "../../assets/images/2.webp"
