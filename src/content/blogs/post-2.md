@@ -7,7 +7,7 @@ image:
   alt: ""
 pubDate: 2026-07-13
 tags:
-  ["Github", "blogging", "site", "ChatGPT"]
+  ["Backrooms", "Curry Barker", "Sammy Stephens", "Kane Parsons"]
 ---
 https://youtu.be/FJ3oHpup-pk?si=HlScHPWeo-yh421
 這支廣告是美國阿拉巴馬州蒙哥馬利市的 **「Flea Market Montgomery」**（蒙哥馬利跳蚤市場）地方電視廣告，由 **Sammy Stephens** 主演，這支原本只是地方電視台播放的低成本家具賣場廣告，約在 2006 年開始因 YouTube 而爆紅，之後被《艾倫秀》介紹給全美觀眾，Sammy Stephens 隨後受邀親自上《艾倫秀》接受訪問。2006年的時候 Kane Parsons還沒滿1歲。
